@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Currency Converter</h1>
+        <form method="POST">
+            <label>Amount:</label>
+            <input type="text" name="amount" required>
+
+            <label>Base Currency (e.g., USD):</label>
+            <input type="text" name="base_currency" required>
+
+            <label>Target Currency (e.g., EUR):</label>
+            <input type="text" name="target_currency" required>
+
+            <input type="submit" value="Convert">
+        </form>
+
+        {% if result %}
+            <h2>Converted Amount: {{ result }}</h2>
+            <!-- Display button only when result is visible -->
+            <button id="rateButton">Show Exchange Rate</button>
+            <p id="rate" style="display:none;">Exchange Rate: {{ conversion_rate }}</p>
+        {% endif %}
+    </div>
+    <script>
+        document.getElementById('rateButton').addEventListener('click', function() {
+            var rateParagraph = document.getElementById('rate');
+            rateParagraph.style.display = rateParagraph.style.display === 'none' ? 'block' : 'none';
+        });
+    </script>
+</body>
+</html>
