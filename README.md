@@ -19,14 +19,14 @@ In today’s globalized economy, individuals and businesses frequently need to c
 # Project Description
 The Currency Converter web application is a robust tool designed to convert monetary amounts between various currencies using real-time exchange rates. The application is built with Flask and integrates with an external API to fetch the latest exchange rates, which are then stored in a MySQL database. This approach ensures that users have access to accurate conversion data while optimizing performance by reducing frequent API calls. The app provides a seamless user experience with a straightforward interface where users can easily input their conversion details and view results instantly.
 
-<b>Key Features :</b><br>
+Key Features :
 + Real-Time Currency Conversion
 + Database Integration
 + User-Friendly Interface
 + Error Handling
 + Configuration Management
 
-<b>Future Enhancements :</b><br>
+Future Enhancements :
 Future enhancements for the Currency Converter web application include expanding support to a broader range of currencies and incorporating historical exchange rate data to provide users with more comprehensive financial insights. The application will also benefit from improved user experience features, such as currency symbols, historical trends, and personalized user accounts for saving frequently used currencies and amounts. Mobile optimization will ensure a consistent experience across devices, while localization and internationalization will cater to a global audience. Additionally, automated data updates will be implemented to refresh exchange rates in the database periodically, reducing manual intervention and ensuring up-to-date information.
 
 # Screenshots
@@ -43,3 +43,6 @@ Description :
 Azure Database for MySQL is used for its fully managed database service that simplifies database management by handling routine tasks such as patching, backups, and scaling. It provides high availability, built-in security, and automated backups, ensuring data durability and protection. With its integration into the Azure ecosystem, it offers seamless scalability and performance tuning, making it suitable for applications requiring reliable and scalable database solutions. Additionally, it supports advanced features like automated failover and geo-replication, which enhance the application's resilience and availability.
 
 ![Screenshot](https://github.com/MasoodaAntule/Currency_Converter/blob/main/screenshorts/Screenshot%202024-09-11%20174915.png)
+
+#Working Live Project Display
+
