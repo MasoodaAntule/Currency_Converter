@@ -32,7 +32,7 @@ Future enhancements for the Currency Converter web application include expanding
 
 # Screenshots
 - Azure App Service
-= Description : 
+- Description : 
 Azure App Service provides a fully managed platform for hosting web applications, APIs, and mobile backends, simplifying deployment and scaling. It automates infrastructure management, allowing developers to focus on coding rather than maintenance. With built-in support for continuous integration and delivery (CI/CD), it streamlines the release of updates and new features. The service integrates with development tools and offers robust security, custom domain, and SSL support. Additionally, Azure App Service provides monitoring and diagnostic tools, ensuring high performance and reliability while optimizing costs through various pricing tiers.
 
 ![Screenshot](https://github.com/MasoodaAntule/Currency_Converter/blob/main/screenshorts/Screenshot%202024-09-11%20173606.png)
