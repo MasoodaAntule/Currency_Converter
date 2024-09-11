@@ -41,4 +41,4 @@ Azure App Service provides a fully managed platform for hosting web applications
 Description :
 Azure Database for MySQL is used for its fully managed database service that simplifies database management by handling routine tasks such as patching, backups, and scaling. It provides high availability, built-in security, and automated backups, ensuring data durability and protection. With its integration into the Azure ecosystem, it offers seamless scalability and performance tuning, making it suitable for applications requiring reliable and scalable database solutions. Additionally, it supports advanced features like automated failover and geo-replication, which enhance the application's resilience and availability.
 
-![Screenshot](https://github.com/MasoodaAntule/Currency_Converter/blob/main/screenshorts/Screenshot 2024-09-11 174915.png)
+![Screenshot](https://github.com/MasoodaAntule/Currency_Converter/blob/main/screenshorts/Screenshot%202024-09-11%20174915.png)
