@@ -8,7 +8,7 @@ Demo Video URL :
 
 Github Repository URL :https://github.com/MasoodaAntule/Currency_Converter
 
-Industry : Lifestyle and Technology
+Industry : Financial Technology (FinTech)
 # Azure Services Used
 1. Azure App Service:
 Deployed the front-end (html,css,js) for user interaction & backend (Python).
