@@ -32,12 +32,14 @@ Future enhancements for the Currency Converter web application include expanding
 
 # Screenshots
 - Azure App Service
+
 Description : 
 Azure App Service provides a fully managed platform for hosting web applications, APIs, and mobile backends, simplifying deployment and scaling. It automates infrastructure management, allowing developers to focus on coding rather than maintenance. With built-in support for continuous integration and delivery (CI/CD), it streamlines the release of updates and new features. The service integrates with development tools and offers robust security, custom domain, and SSL support. Additionally, Azure App Service provides monitoring and diagnostic tools, ensuring high performance and reliability while optimizing costs through various pricing tiers.
 
 ![Screenshot](https://github.com/MasoodaAntule/Currency_Converter/blob/main/screenshorts/Screenshot%202024-09-11%20173606.png)
 
 - Azure Databse for MySQL
+
 Description :
 Azure Database for MySQL is used for its fully managed database service that simplifies database management by handling routine tasks such as patching, backups, and scaling. It provides high availability, built-in security, and automated backups, ensuring data durability and protection. With its integration into the Azure ecosystem, it offers seamless scalability and performance tuning, making it suitable for applications requiring reliable and scalable database solutions. Additionally, it supports advanced features like automated failover and geo-replication, which enhance the application's resilience and availability.
 
