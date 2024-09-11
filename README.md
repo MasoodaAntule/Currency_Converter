@@ -4,5 +4,5 @@ The currency converter web app is designed to facilitate the conversion of amoun
 # Project Details
 Project Demo URL :https://currencycon-gee3hwake3gbaxde.southindia-01.azurewebsites.net
 Demo Video URL :
-Github Repository URL : https://github.com/Dipalisabde/Money_manager/
+Github Repository URL :https://github.com/MasoodaAntule/Currency_Converter
 Industry : Lifestyle and Technology
