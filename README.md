@@ -44,5 +44,12 @@ Azure Database for MySQL is used for its fully managed database service that sim
 
 ![Screenshot](https://github.com/MasoodaAntule/Currency_Converter/blob/main/screenshorts/Screenshot%202024-09-11%20174915.png)
 
-#Working Live Project Display
+# Working Live Project Display
+Description:
+
+Here i am adding the Amount with its base currency and targate currency
+![Screenshot](https://github.com/MasoodaAntule/Currency_Converter/blob/main/screenshorts/Screenshot%202024-09-11%20180524.png)
+
+Getting the converted amount with its exchange rate 
+![Screenshot](https://github.com/MasoodaAntule/Currency_Converter/blob/main/screenshorts/Screenshot%202024-09-11%20180702.png)
 
